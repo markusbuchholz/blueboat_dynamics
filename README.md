@@ -5,10 +5,10 @@
 
 ## Introduction
 
-This repository provides a comprehensive dynamic model of BlueBoat implemented in C++ <br>.
-The model with environmental disturbances (waves, wind, and ocean currents) uses the Runge-Kutta method to solve the differential equations governing the ASV's motion<br>.
-Additionally, the repository includes a Simulink model equipped with PID controllers, which allows for parameter autotuning to optimize the ASV's performance<br>. 
-The C++ program also includes **MPC** and **PID** controller, allowing for consistent control strategies across different platforms<br>. 
+This repository provides a comprehensive dynamic model of BlueBoat implemented in C++. <br>
+The model with environmental disturbances (waves, wind, and ocean currents) uses the Runge-Kutta method to solve the differential equations governing the ASV's motion.<br>
+Additionally, the repository includes a Simulink model equipped with PID controllers, which allows for parameter autotuning to optimize the ASV's performance.<br> 
+The C++ program also includes **MPC** and **PID** controller, allowing for consistent control strategies across different platforms.<br> 
 
 
 ## Prerequisites
